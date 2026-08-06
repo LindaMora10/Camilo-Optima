@@ -43,10 +43,9 @@ Alternativa preferente: **cimentación profunda en C y D + paquete hidráulico�
 
 ## Soporte fotográfico
 
-La columna *Soporte fotográfico* de la línea de tiempo referencia las imágenes **6 a 25**.
-En [`imagenes/`](imagenes/) hay una subcarpeta por cada evidencia documental, rotulada con su
-fecha y documento, para subir allí las fotografías. Ver
-[`imagenes/README.md`](imagenes/README.md) para el mapa completo imagen → evento y la convención
-de nombres.
+La columna *Soporte fotográfico* de la línea de tiempo referencia las imágenes **6 a 25**, todas
+cargadas en [`imagenes/`](imagenes/), organizadas en una subcarpeta por evidencia documental
+rotulada con su fecha y documento. Ver [`imagenes/README.md`](imagenes/README.md) para el mapa
+completo imagen → evento y la convención de nombres.
 
 > Estado del material: **PRELIMINAR** — sin dimensiones, cantidades ni costos cerrados.

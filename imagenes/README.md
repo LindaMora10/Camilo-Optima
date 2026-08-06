@@ -3,8 +3,8 @@
 Carpeta destinada a las imágenes referenciadas en la columna **Soporte fotográfico** de
 [`docs/linea-temporal-T009.md`](../docs/linea-temporal-T009.md).
 
-La línea de tiempo referencia las **Imágenes 6 a 25**. Hay una subcarpeta por cada evidencia
-documental: sube cada foto a la subcarpeta del evento al que pertenece.
+La línea de tiempo referencia las **Imágenes 6 a 25**, todas cargadas. Hay una subcarpeta por
+cada evidencia documental: cada foto va en la subcarpeta del evento al que pertenece.
 
 ## Mapa imagen → evento
 
@@ -23,26 +23,21 @@ documental: sube cada foto a la subcarpeta del evento al que pertenece.
 
 ## Convención de nombres
 
-Usa el número de imagen de la línea de tiempo, con dos dígitos, y una descripción corta en
-minúsculas sin tildes ni espacios:
+Los archivos se nombran con el número de imagen de la línea de tiempo: `Imagen 6.jpeg`,
+`Imagen 7.jpeg`, etc.
 
-```
-imagen-06_perfil-suelos-residuales.jpg
-imagen-11_curvatura-trinchos-A-B.jpg
-imagen-19_escarpe-y-falla-de-trinchos-bajo-C.jpg
-imagen-25_acumulacion-hidrologica-T009.png
-```
+Para material nuevo:
 
-Si un mismo número tiene varias tomas, añade un sufijo de letra:
-`imagen-21a_...`, `imagen-21b_...`.
-
-Formatos sugeridos: `.jpg` para fotografías de campo, `.png` para figuras, mapas y capturas de
-informes.
+- Si un mismo número tiene varias tomas, añade un sufijo de letra: `Imagen 21a.jpeg`,
+  `Imagen 21b.jpeg`.
+- Puedes agregar una descripción corta después del número —
+  `Imagen 19 - escarpe bajo C.jpeg` — indicando la pata de referencia (A, B, C o D) cuando la
+  foto sea de un apoyo concreto.
+- Formatos: `.jpg`/`.jpeg` para fotografías de campo, `.png` para figuras, mapas y capturas de
+  informes.
 
 ## Recomendaciones
 
 - Conserva las fotografías **georreferenciadas** con sus metadatos EXIF (no las recortes ni
   reexportes si se puede evitar).
-- Anota la pata de referencia (A, B, C o D) en el nombre cuando la foto sea de un apoyo concreto.
-- Cada subcarpeta incluye un `.gitkeep` para mantenerla en el repositorio mientras está vacía;
-  puedes borrarlo una vez subas las imágenes.
+- `00_general/` mantiene un `.gitkeep` porque está vacía; puedes borrarlo al subir contenido.
