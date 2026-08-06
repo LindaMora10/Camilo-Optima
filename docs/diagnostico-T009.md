@@ -78,3 +78,5 @@ Para cerrar la causalidad y los umbrales de intervención:
 3. Modelo acoplado ladera–cimentación con las reacciones estructurales reales de la torre.
 4. Instrumentación (inclinometría / monitoreo de nivel freático y surgencia).
 5. Escenarios conservadores y evidencias convergentes, en lugar de un único indicador.
+
+## Debe incluir un buen espacio para una imágen que debo incluir en las diapositivas
