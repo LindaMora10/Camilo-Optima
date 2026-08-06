@@ -8,20 +8,24 @@ soporte fotográfico del diagnóstico geotécnico de las torres **T009 · L2146*
 
 | Ruta | Descripción |
 |---|---|
-| [`docs/linea-temporal-T009.md`](docs/linea-temporal-T009.md) | Línea de tiempo de evidencias documentales (transcripción del Excel a Markdown) |
-| [`docs/presentacion-diagnostico.md`](docs/presentacion-diagnostico.md) | Contenido de la presentación de socialización, slide por slide |
-| [`data/Linea_Temporal_T009.xlsx`](data/Linea_Temporal_T009.xlsx) | Archivo original `Linea.xlsx` (hoja `LINEA TEMPORAL`) |
-| [`presentaciones/`](presentaciones/) | Presentación original `.pptx` del diagnóstico |
-| [`imagenes/`](imagenes/) | **Carpeta para cargar el soporte fotográfico** (Imagen 6 a Imagen 25) |
+| [`docs/linea-temporal-T009.md`](docs/linea-temporal-T009.md) | Cronología de evidencias documentales, de 2019 a 2026 |
+| [`docs/diagnostico-T009.md`](docs/diagnostico-T009.md) | Modelo causal, mecanismo, limitaciones de la evidencia y comprobación pendiente |
+| [`docs/alternativas-de-intervencion.md`](docs/alternativas-de-intervencion.md) | Sistema integral recomendado, matriz comparativa y aspectos por concertar |
+| [`data/Linea_Temporal_T009.xlsx`](data/Linea_Temporal_T009.xlsx) | Archivo fuente `Linea.xlsx` (hoja `LINEA TEMPORAL`) |
+| [`imagenes/`](imagenes/) | **Carpeta para cargar el soporte fotográfico** (Imagen 6 a 25) |
 
-## Soporte fotográfico
+## Enfoque del análisis
 
-La columna *Soporte fotográfico* de la línea de tiempo referencia las imágenes
-**6 a 25**. En [`imagenes/`](imagenes/) hay una subcarpeta por cada evidencia
-documental, ya rotulada con su fecha y documento, para subir allí las fotografías.
+El ejercicio se basa en evidencia, causalidad, limitaciones, umbrales de intervención y nivel de
+seguridad, en cinco bloques:
 
-Ver [`imagenes/README.md`](imagenes/README.md) para el mapa completo
-imagen → evento y la convención de nombres.
+1. **Evidencia** — qué se observó y qué documento lo soporta.
+2. **Línea de tiempo** — cómo evolucionó la condición.
+3. **Interpretación** — detonantes y mecanismo.
+4. **Comprobación** — cómo probar causalidad y sus límites.
+5. **Soluciones** — comparación y decisión condicionada.
+
+La misma secuencia se aplica a las dos torres.
 
 ## Resumen del diagnóstico (T009 · L2146)
 
@@ -33,5 +37,16 @@ imagen → evento y la convención de nombres.
 - **Limitación principal:** no hay daño visible en patas ni pedestales, ni inclinometría;
   la geometría de la superficie de falla y su relación con las cuatro zapatas debe
   cerrarse por convergencia de evidencias.
+
+Alternativa preferente: **cimentación profunda en C y D + paquete hidráulico–ambiental**
+(ver [alternativas de intervención](docs/alternativas-de-intervencion.md)).
+
+## Soporte fotográfico
+
+La columna *Soporte fotográfico* de la línea de tiempo referencia las imágenes **6 a 25**.
+En [`imagenes/`](imagenes/) hay una subcarpeta por cada evidencia documental, rotulada con su
+fecha y documento, para subir allí las fotografías. Ver
+[`imagenes/README.md`](imagenes/README.md) para el mapa completo imagen → evento y la convención
+de nombres.
 
 > Estado del material: **PRELIMINAR** — sin dimensiones, cantidades ni costos cerrados.

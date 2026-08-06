@@ -19,7 +19,7 @@ documental: sube cada foto a la subcarpeta del evento al que pertenece.
 | 19, 20 | Junio de 2026 | Informe de visita a torres L5022 y L2146, Rev. 01 | [`07_2026-06_informe-visita-torres/`](07_2026-06_informe-visita-torres/) |
 | 21, 22, 23, 24 | Agosto de 2026 | Registro de campo actualizado y fotografías georreferenciadas | [`08_2026-08_registro-de-campo/`](08_2026-08_registro-de-campo/) |
 | 25 | Ago. 2026 | Validación hidromorfológica T009–T010 (PY259) | [`09_2026-08_validacion-hidromorfologica/`](09_2026-08_validacion-hidromorfologica/) |
-| 1–5 y otras | — | No referenciadas en la línea de tiempo (contexto, localización, deck) | [`00_general/`](00_general/) |
+| 1–5 y otras | — | No referenciadas en la línea de tiempo (contexto, localización, panorámicas) | [`00_general/`](00_general/) |
 
 ## Convención de nombres
 
