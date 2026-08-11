@@ -16,7 +16,7 @@ diagnóstico · Soporte fotográfico*.
 | # | Fecha | Documento o evidencia | Soporte fotográfico |
 |---|---|---|---|
 | 1 | 2019-2020 | PE-COYA-00401-L-00-D0053, Rev. 4 — Informe de estudio de suelos | Imagen 1 |
-| 2 | Feb.–ago. 2022 | Protocolos de construcción T9N (GP-S06-F02/F03/F04/F05/F06) | Imagen 2, 3 |
+| 2 | Feb.–ago. 2022 | Protocolos de construcción T2N (GP-S06-F02/F03/F04/F05/F06) | Imagen 2, 3 |
 | 3 | Junio de 2024 | Evaluación geológica — Inspección geológica T‑2N/L5022, Rev. 00 | Imagen 4 |
 | 4 | Enero de 2026 | Inspección civil de torre T10 L5022 | Imagen 5, 6, 7 |
 | 5 | Feb-Abr/2026 | P25002-GG-INF-01-T10, Rev. 0 — Estudio geotécnico y estabilidad de taludes (Ingeotest) | Imagen 8 |
