@@ -42,7 +42,7 @@ que entre 0,50 y 4,50 m hay capas de arena de grano medio, de color marrón clar
 amarillo, con algo de grava fina, con algunas capas de arcilla ligera rojiza, de humedad muy
 baja, con plasticidad media y medio suelta a firme. No se detectó nivel freático.
 
-**Soporte fotográfico:** [Imagen 6](../imagenes/01_2019-2020_estudio-de-suelos/Imagen%206.jpeg), [Imagen 7](../imagenes/01_2019-2020_estudio-de-suelos/Imagen%207.jpeg), [Imagen 8](../imagenes/01_2019-2020_estudio-de-suelos/Imagen%208.jpeg)
+**Soporte fotográfico:** [Imagen 6](../imagenes/T009/01_2019-2020_estudio-de-suelos/Imagen%206.jpeg), [Imagen 7](../imagenes/T009/01_2019-2020_estudio-de-suelos/Imagen%207.jpeg), [Imagen 8](../imagenes/T009/01_2019-2020_estudio-de-suelos/Imagen%208.jpeg)
 
 ---
 
@@ -63,7 +63,7 @@ y subsuperficial asociado a la microcuenca.
 puntuales, pero no descartan una degradación posterior por agua, erosión del pie o cambios de
 uso del terreno.
 
-**Soporte fotográfico:** [Imagen 9](../imagenes/02_2022_protocolos-de-construccion/Imagen%209.jpeg), [Imagen 10](../imagenes/02_2022_protocolos-de-construccion/Imagen%2010.jpeg)
+**Soporte fotográfico:** [Imagen 9](../imagenes/T009/02_2022_protocolos-de-construccion/Imagen%209.jpeg), [Imagen 10](../imagenes/T009/02_2022_protocolos-de-construccion/Imagen%2010.jpeg)
 
 ---
 
@@ -85,7 +85,7 @@ hidroerosiva. En 2024 la manifestación visible se concentraba en A–B, no en C
 evidencias de lluvias intensas en el sitio. Esto sugiere que el proceso cambió espacialmente o
 que la vegetación ocultaba afectaciones adicionales.
 
-**Soporte fotográfico:** [Imagen 11](../imagenes/03_2024-06_evaluacion-geologica/Imagen%2011.jpeg), [Imagen 12](../imagenes/03_2024-06_evaluacion-geologica/Imagen%2012.jpeg)
+**Soporte fotográfico:** [Imagen 11](../imagenes/T009/03_2024-06_evaluacion-geologica/Imagen%2011.jpeg), [Imagen 12](../imagenes/T009/03_2024-06_evaluacion-geologica/Imagen%2012.jpeg)
 
 ---
 
@@ -104,7 +104,7 @@ cultivos. El informe señala ausencia de drenaje.
 de 2024, pero la expresión “hundimiento de fundación” no está acompañada por nivelación,
 topografía o medición de la zapata. Debe tratarse como indicio, no como desplazamiento comprobado.
 
-**Soporte fotográfico:** [Imagen 13](../imagenes/04_2026-01_inspeccion-civil/Imagen%2013.jpeg), [Imagen 14](../imagenes/04_2026-01_inspeccion-civil/Imagen%2014.jpeg)
+**Soporte fotográfico:** [Imagen 13](../imagenes/T009/04_2026-01_inspeccion-civil/Imagen%2013.jpeg), [Imagen 14](../imagenes/T009/04_2026-01_inspeccion-civil/Imagen%2014.jpeg)
 
 ---
 
@@ -127,7 +127,7 @@ movimiento localizado bajo C–D. El FS estático menor que 1,50 respalda vulner
 define por sí mismo la cinemática ni la profundidad real del proceso. Validar modelación
 correcta de cargas de la torre a la sección analizada.
 
-**Soporte fotográfico:** [Imagen 15](../imagenes/05_2026-02-04_estudio-geotecnico-ingeotest/Imagen%2015.jpeg), [Imagen 16](../imagenes/05_2026-02-04_estudio-geotecnico-ingeotest/Imagen%2016.jpeg), [Imagen 17](../imagenes/05_2026-02-04_estudio-geotecnico-ingeotest/Imagen%2017.jpeg)
+**Soporte fotográfico:** [Imagen 15](../imagenes/T009/05_2026-02-04_estudio-geotecnico-ingeotest/Imagen%2015.jpeg), [Imagen 16](../imagenes/T009/05_2026-02-04_estudio-geotecnico-ingeotest/Imagen%2016.jpeg), [Imagen 17](../imagenes/T009/05_2026-02-04_estudio-geotecnico-ingeotest/Imagen%2017.jpeg)
 
 ---
 
@@ -144,7 +144,7 @@ aguas dentro del contexto general del proyecto.
 **Análisis técnico para el diagnóstico:** aporta contexto de criticidad y costos, pero no asocia
 un diagnóstico causal específico de T009.
 
-**Soporte fotográfico:** [Imagen 18](../imagenes/06_2026-05_riesgo-y-obras-adicionales/Imagen%2018.jpeg)
+**Soporte fotográfico:** [Imagen 18](../imagenes/T009/06_2026-05_riesgo-y-obras-adicionales/Imagen%2018.jpeg)
 
 ---
 
@@ -167,7 +167,7 @@ aparece una surgencia no identificada previamente. La ausencia de daños estruct
 el proceso aún no había producido una distorsión evidente de la torre, aunque las zapatas estaban
 en condición vulnerable. Evento de colapso de trinchos entre febrero y junio de 2026.
 
-**Soporte fotográfico:** [Imagen 19](../imagenes/07_2026-06_informe-visita-torres/Imagen%2019.jpeg), [Imagen 20](../imagenes/07_2026-06_informe-visita-torres/Imagen%2020.jpeg)
+**Soporte fotográfico:** [Imagen 19](../imagenes/T009/07_2026-06_informe-visita-torres/Imagen%2019.jpeg), [Imagen 20](../imagenes/T009/07_2026-06_informe-visita-torres/Imagen%2020.jpeg)
 
 ---
 
@@ -188,7 +188,7 @@ agua–erosión del pie–reptación. Sin embargo, la presencia de reptación no
 automáticamente una falla profunda. Se requiere relacionar los rasgos superficiales con la
 topografía, la exploración y la posición de las zapatas.
 
-**Soporte fotográfico:** [Imagen 21](../imagenes/08_2026-08_registro-de-campo/Imagen%2021.jpeg), [Imagen 22](../imagenes/08_2026-08_registro-de-campo/Imagen%2022.jpeg), [Imagen 23](../imagenes/08_2026-08_registro-de-campo/Imagen%2023.jpeg), [Imagen 24](../imagenes/08_2026-08_registro-de-campo/Imagen%2024.jpeg)
+**Soporte fotográfico:** [Imagen 21](../imagenes/T009/08_2026-08_registro-de-campo/Imagen%2021.jpeg), [Imagen 22](../imagenes/T009/08_2026-08_registro-de-campo/Imagen%2022.jpeg), [Imagen 23](../imagenes/T009/08_2026-08_registro-de-campo/Imagen%2023.jpeg), [Imagen 24](../imagenes/T009/08_2026-08_registro-de-campo/Imagen%2024.jpeg)
 
 ---
 
@@ -207,4 +207,4 @@ vaguada permanente, la vía, la surgencia y la posible truncación de la cuenca 
 agua podría provenir de una ruta externa o subsuperficial, no únicamente de la escorrentía
 generada dentro de la plataforma de la torre.
 
-**Soporte fotográfico:** [Imagen 25](../imagenes/09_2026-08_validacion-hidromorfologica/Imagen%2025.jpeg)
+**Soporte fotográfico:** [Imagen 25](../imagenes/T009/09_2026-08_validacion-hidromorfologica/Imagen%2025.jpeg)
